@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  <img src="img/1.pgn" alt="Natour Website" />
+  <img src="img/1.png" alt="Trillo Website" />
 </p>
